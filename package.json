@@ -20,14 +20,12 @@
   },
   "homepage": "https://github.com/PrimalOrB/food-festival#readme",
   "devDependencies": {
-    "@webpack-cli/serve": "^1.4.0",
     "webpack": "^5.37.1",
-    "webpack-cli": "^4.7.0",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-cli": "^4.7.0"
   },
   "dependencies": {
-    "bootstrap": "^5.0.2",
-    "jquery": "^3.6.0",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
     "popper.js": "^1.16.1"
   }
 }
